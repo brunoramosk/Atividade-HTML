@@ -1,0 +1,15 @@
+header {
+    text-align: center;
+}
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 100px;
+    width: 200px;
+}
+td {
+    text-align: left;
+}
+th {
+    border: 1px solid black;
+}
